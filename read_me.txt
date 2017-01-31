@@ -11,4 +11,4 @@
 ƒл€ плавных анимаций используйте CSS код:
 *{transition: all .1s ease-in;}
 ÷вета определ€йте с помощью УpixieФ, или другого похожего инструмента
-Ўрифт: УTrebuchet MSФ, Trebuchet, Arial, sans-serif
+Ўрифт: УTrebuchet MSФ, Trebuchet, Arial, sans-serif.
